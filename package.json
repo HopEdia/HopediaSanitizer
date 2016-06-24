@@ -1,0 +1,24 @@
+{
+  "name": "hopedia_beer_sanitizer",
+  "version": "0.1.0",
+  "description": "Sanitize beers //TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "koko-ng",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "mongo-sanitize": "^1.0.0",
+    "mongodb": "^2.1.18"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koko-ng/HopediaSanitizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/koko-ng/HopediaSanitizer/issues"
+  },
+  "homepage": "https://github.com/koko-ng/HopediaSanitizer#readme"
+}
